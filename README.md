@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sonmathi-Lakshya-R-J/LeetCode-stuffs/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Sonmathi-Lakshya-R-J/LeetCode-stuffs/tree/main/0027-remove-element/) | Easy |
+| [0136-single-number](https://github.com/Sonmathi-Lakshya-R-J/LeetCode-stuffs/tree/main/0136-single-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,4 +33,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sonmathi-Lakshya-R-J/LeetCode-stuffs/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/Sonmathi-Lakshya-R-J/LeetCode-stuffs/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
